@@ -202,14 +202,9 @@ Along with taking pride in your tarps, you should take care of them. Both the ny
 [taught-line]: http://cdn.instructables.com/FE2/XCQX/FRD80IRK/FE2XCQXFRD80IRK.LARGE.gif
 [trucker]: {{ site.url }}/assets/Truckershitch.jpg
 [clove]: http://www.townsvillemaritimemuseum.org.au/gallery/Hitches_and_Bends/Hitches_and_Bends_img_1774.jpg
-[bowline1234]: {{ site.url }}/assets/bowline1234.jpg 
-[bowline5678]: {{ site.url }}/assets/bowline5678.jpg 
 [square]: http://www.netknots.com/files/6413/2990/8389/square-knot.jpg
 [sheet]: http://www.pioneeringmadeeasy.co.uk/knotsandlash/images/sheetbend.jpg 
 [princess]: {{ site.url }}/assets/Princessknot.jpg 
-[butterfly1234]: {{ site.url }}/assets/butterfly1234.jpg 
-[butterfly5678]: {{ site.url }}/assets/butterfly5678.jpg 
-[butterflylast]: {{ site.url }}/assets/butterflylast.jpg 
 [tarp]: http://i177.photobucket.com/albums/w228/cmgray1228/DSC00317.jpg
 [pinch]: {{ site.url }}/assets/pinch.jpg
 [pulley]: {{ site.url }}/assets/pulley.jpg
