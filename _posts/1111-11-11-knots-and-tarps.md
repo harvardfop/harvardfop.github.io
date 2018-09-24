@@ -82,8 +82,7 @@ There are many more cool knots out there, but those few will get you through tar
 - Disadvantages:
 	- Can only be tied when there isn't anything pulling the standing end
 
-![bowline1234][bowline1234]
-![bowline5678][bowline5678]
+
 
 #### Square Knot
 - Use case: 
@@ -112,9 +111,7 @@ There are many more cool knots out there, but those few will get you through tar
 	- Very easy to untie, even after being pulled very tight
 	- You don't actually need tape to hold the two ropes together while tying; that's just shown below for ease of demonstration
 
-![butterfly1234][butterfly1234]
-![butterfly5678][butterfly5678]
-![butterflylast][butterflylast]
+
 
 #### Figure 8 ("Princess") Knot
 - Use case:
