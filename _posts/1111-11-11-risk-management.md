@@ -152,7 +152,7 @@ Emotional safety is in some ways a less clearly defined subject than actual phys
 
 - Be sensitive. You and your co-leader(s) should monitor the group, watching for changes in behavior - subtle or abrupt - that occur in response to events.
 - Create a safe, supportive environment for all FOPpers and leaders. Work with your co-leader(s) to make sure everyone is comfortable in the group.
-- Give people their space. An encouraging touch on the arm or shoulder might not bother a FOPper, but a back rub could be too much for someone to handle. Don't assume everyone is as comfortable with physical contact as you might be.
+- Give people their space. For example, an encouraging touch on the arm or shoulder might be helpful for a FOPper, but a hug might be uncomfortable for them. Don't assume everyone is as comfortable with physical contact as you might be.
 - Follow FOP guidelines regarding group dynamics. Look at the policies regarding alcohol, drugs, and sex, and read the section on outdoor leadership.
 - Maintain an open and tolerant atmosphere. Remember that FOP aims to foster an open and tolerant atmosphere where people are willing to work with each other regardless of differences such as gender, age, race, sexual orientation, religion, ethnic or socio-economic background.
 
