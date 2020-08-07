@@ -92,7 +92,7 @@ Cline and Bell propose to develop a model for risk that is educational in focus,
 
 You can think of each person as having a "safe zone" where they feel very little risk, a "learning zone" where they feel enough risk to have to adapt, and a "panic zone" where they feel so much risk that they are being hurt instead of learning. Your goal as a facilitator is to, first, keep everyone out of their panic zone, and second, to push as many people into their learning zone as possible. Keep in mind that there are multiple axes of risk (for example, physical and emotional risk) so people can move between risk zones by moving along multiple axes. For example, if you have a FOPper who is very experienced with physical risks in the outdoors, it may not be a good idea to try to push them into their learning zone on the axis of physical risk. Instead, you might try pushing them to take on more emotional risk.
 
-![Risk zones](../_assets/risk_zones.png)
+![Risk zones](/_assets/risk_zones.png)
 
 ### Risk Homeostasis
 
