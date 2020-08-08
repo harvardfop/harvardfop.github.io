@@ -45,7 +45,7 @@ Do not carve on trees or shelters. FOP does not want to leave a legacy.
 
 #### Fire
 
-We discourage fires. They are dangerous (especially given how flammable synthetic clothing is). Fires should only be made if there is already an existing fire pit and plenty of dead wood on the ground. If you do make a fire, wood should be gathered at least 200 yards away from the campsite. No one should hold a stick which is lit on one end. Do not break off any branches to do it, and make sure all wood is burned to white ash, and then make sure it is completely out by pouring lots of water on it. Use common sense about proximity to sleeping site and about wind dangers. Also, pay attention to whether fires are banned in your area. One way to create the fire atmosphere without a real fire is to bring candles and sit around them instead. But be very careful with any flame: watch out for dry leaves and wood as well as student clothing and equipment.
+We discourage fires. They are dangerous to people (especially given how flammable synthetic clothing is) and to the environment. Fires should only be made if there is already an existing fire pit and plenty of dead wood on the ground. If you do make a fire, wood should be gathered at least 200 yards away from the campsite. No one should hold a stick which is lit on one end. Do not break off any branches to do it, and make sure all wood is burned to white ash, and then make sure it is completely out by pouring lots of water on it. Use common sense about proximity to sleeping site and about wind dangers. Also, pay attention to whether fires are banned in your area. One way to create the fire atmosphere without a real fire is to bring candles and sit around them instead. But be very careful with any flame (including the stove); watch out for dry leaves and wood as well as student clothing and equipment. You can also use a headlamp pointing into a water bottle.
 
 ### Hygiene
 
@@ -60,10 +60,10 @@ General sanitation practices:
 #### Going to the Bathroom
 
 - Urinate 200 yards away from the water supply and off the trail.
-- Catholes should be 200 yards away from water, 4 to 8 inches deep, and covered at that depth for decomposition purposes. Try to make trowel use in your group not a big deal, so people aren't embarrassed to ask for it. You may want to teach people the "telephone game" to make people feel more comfortable and less inhibited (#1 is a "local call" and #2 is a "long-distance call;" the trowel is "opera- tor assistance" and the TP is the "white pages.") Other groups have had success in naming their trowel ("Doug" works well).
+- Catholes should be 200 yards away from water, 4 to 8 inches deep, and covered at that depth for decomposition purposes. Try to make trowel use in your group not a big deal, so people aren't embarrassed to ask for it. You may want to teach people the "telephone game" to make people feel more comfortable and less inhibited (#1 is a "local call" and #2 is a "long-distance call;" the trowel is "operator assistance" and the TP is the "white pages.") Other groups have had success in naming their trowel ("Doug" works well).
 - If an outhouse is available, you should always use it because the areas we travel in are used by many hikers. Using the outhouse reduces the impact on the land and improves the sanitary conditions of the area. Many outhouses don't allow urination (this slows down the composting process. Be aware of the rules of your outhouse and inform your FOPpers, too.)
 - It is important that FOPpers are going to the bathroom regularly. There are medical concerns associated with not defecating regularly. Make sure they know this and feel comfortable with going in the woods; you don't want them holding it for 5 days.
-- We bring a limited amount of toilet paper because it needs to be carried out of the field. If used, it must be bagged and carried out. Leaves and pinecones are a lot less hassle in the long run. Make it an adventure, and keep the TP stashed for hygiene, diarrhea, and emergencies.
+- We bring a limited amount of toilet paper because it needs to be carried out of the field. If used, it must be bagged and carried out (each person can cover a plastic bag with duct tape to make a used TP bag for themself). Leaves and pinecones are a lot less hassle in the long run. Make it an adventure, and keep the TP stashed for hygiene, diarrhea, and emergencies.
 
 #### Period Kits
 
@@ -94,7 +94,7 @@ Many female FOPpers are surprised to learn that their male counterparts generall
 
 ##### Some Final Words
 
-This can be a sensitive issue and should be discussed before you leave Cambridge. Even if they do not plan to get their periods, all female FOPpers should bring their own pads or tampons and some extra plastic bags - ideally in a system like the one described above. An evening run to CVS with your FOPpers can give any unprepared female FOPper a chance to make these purchases. Be sure to explain to your FOPpers that tampons and sanitary pads must be bagged and carried out. The plastic bags should be bearbagged with the food every night. Tampons and pads cannot be left in outhouses or buried - they will attract bears and other animals.
+This can be a sensitive issue and should be discussed before you leave Cambridge. Even if they do not plan to get their periods, all FOPpers whose body can have a period should bring their own pads or tampons and some extra plastic bags - ideally in a system like the one described above. An evening run to CVS with your FOPpers can give any unprepared FOPper a chance to make these purchases. Be sure to explain to your FOPpers that tampons and sanitary pads must be bagged and carried out. The plastic bags should be bearbagged with the food every night. Tampons and pads cannot be left in outhouses or buried - they will attract bears and other animals.
 
 ### Drinking Water
 
@@ -105,10 +105,10 @@ All water must be purified by boiling or by use of iodine or chlorine. FOP trips
 Purification pointers:
 
 - Water used for cooking can be purified by maintaining a rolling boil for about 3 minutes. (Note: this is often debated. Other sources say all bacteria aren't killed until 10 minutes.)
-- Water needed for drinking should be purified with chlorine, since boiling consumes a lot of fuel needed for cooking. Add 3 drops to each liter of water, thread the cap so there is no unpurified water at the mouth of the water bottle, and leave for a half hour to let that chlorine work.
+- Water needed for drinking should be purified with chlorine, since boiling consumes a lot of fuel needed for cooking. Add 3 drops to each liter of water, thread the cap (let some chlorinated water seep around the threads) so there is no unpurified water at the mouth of the water bottle, and leave for a half hour to let that chlorine work.
 - Everyone should be filling and purifying water bottles at every opportunity.
 - It's a good idea to assign three FOPpers to water purification duty for the week, so that someone always knows when the bottles are okay to drink.
-- If you are adding any flavoring to your water, like lemonade powder, do so only after the purifying time has elapsed..
+- If you are adding any flavoring to your water, like lemonade powder, do so only after the purifying time has elapsed.
 - To keep water sources usable, follow US Forest Service Land Use Regulations.
 
 #### Elastic Band System
@@ -134,9 +134,9 @@ On the trail, FOP uses the "rubber band system" to differentiate the three state
 - Do not put a plastic bag over a sleeping bag’s bottom for extra waterproofing, it will collect condensation that’s escaping from your sleeping bag, and you’ll wake up with soaking wet feet.
 - Keep one pair of socks in your sleeping bag and never take them out: your “bed socks”. This way, no matter how wet, cold, or grungy your feet get during the day, you’ll always have clean, dry warmth awaiting you in your sleeping bag. 
 - You can put the bottom of your sleeping bag on your backpack to keep your feet off the ground.
-- Brent’s Curtain Method (BCM): enter your sleeping bag warm wearing a layer of polypro. Drop your poly bottoms to your ankles, but do not take off. Lift your shirt to your neck and roll-up sleeves, or just leave shirt around neck. When your body temp starts to drop through the night, pull the ‘curtains’ down: pull your poly tops and bottoms on, giving you the extra bit of warmth to sleep for another couple of hours.
+- Brent’s Curtain Method (BCM): enter your sleeping bag warm wearing an extra shirt and pair of pants. Drop your pants to your ankles, but do not take off. Lift your shirt to your neck and roll-up sleeves, or just leave shirt around neck. When your body temp starts to drop through the night, pull the ‘curtains’ down: pull your tops and bottoms on, giving you the extra bit of warmth to sleep for another couple of hours.
 - Another method of keeping warm is the Matissa Gasket (MG) which involves taking a fleece and clothes to wrap around your neck in your sleeping bag. Since heat in a sleeping bag often escapes through the hole in the top, the gasket plugs up the hole.
-- Since staying on the ensolite pad is important if you want to stay warm, you can shape your ensolite to ‘hold’ your body on the pad by placing shoes under the ensolite sides to make the edges higher than the middle and stop the pad from sliding. Also, if you are sleeping on slanted ground, you can place shoes and boots at the bottom of your ensolite to keep it from sliding out from under the tarp.
+- Since staying on the sleeping pad is important if you want to stay warm, you can shape your sleeping to ‘hold’ your body on the pad by placing shoes under the sleeping pad sides to make the edges higher than the middle and stop the pad from sliding. Also, if you are sleeping on slanted ground, you can place shoes and boots at the bottom of your sleeping pad to keep it from sliding out from under the tarp.
 - Clothing can act as padding to fill in spots, pad rocks, and try to make your bed more comfortable.
 - If you are getting cold at night, make sure you go to bed warm. The sleeping bag only retains heat, so do calisthenics before getting in your sleeping bag or even push-ups or sit-ups once in your sleeping bag to warm up the bag.
 - Because the ground sucks away your heat, the higher off the ground you are, the warmer you are, so do not be afraid to place layers of clothes on your sleeping pad to create an extra insulating layer.
@@ -145,17 +145,15 @@ On the trail, FOP uses the "rubber band system" to differentiate the three state
 
 #### Dealing with bugs
 - Put DEET on with the back of your hands.
-- Use Pyrethum on your clothes before you leave, it will stay on your clothing for 2-weeks.
+- Use Pyrethum on your clothes before you leave, it will stay on your clothing for 2 weeks.
 - Be extra careful to wash hands before doing food stuff…DEET is nasty, nasty stuff.
 
 #### General Ideas
 - Taking everyone’s watch can create a new experience of time awareness for your FOPpers, only eating when they’re are hungry, sleeping when they’re tired, etc. (Make sure that leaders keep watches.) Also, make sure this is a choice, not forced.
 - You can put Andes Mints (mountainous, delicious) on everyone’s pillows the first night for a cutely hotel-ish treat to make the FOPpers feel welcomed and cared for (a Chris Angell special).
-- Use a talking stick to facilitate discussion.
-- Carry more durable trash compactor bags instead of regular trash bags to line your pack.
 - Bring extra ziplock bags as all of your FOPpers will want them.
 - Teabags can work to clean your face.
-- Have a Black Tie dinner or evening. Tell your FOPpers that they need to assemble their most formal attire from the things that they have with them. You can leave it up to their imagination or give them hints (socks make great ties, trash bags and tarps make great skirts and dresses). This works especially well on the last night of the trip, so that your FOPpers are entertained while you’re making the cheesecake.
+
 
 
 [period kit]: {{ site.url }}/assets/period_kit.png
