@@ -13,7 +13,7 @@ The policies and procedures in this section have been chosen by FOP to make the 
 
 ***Policies*** are the rules of FOP. Internalize them and be familiar with the arguments that surround them, because even though you may not follow them in your everyday hiking regimen, they must become paramount when you are representing FOP.
 
-***Procedures*** are more loose statements that may further explain the validity of a policy or provide more specific examples of how a policy may be implemented.
+***Procedures*** are more loose statements or guidelines that may further explain the validity of a policy or provide more specific examples of how a policy may be implemented.
 
 As an ethical question, FOP has prioritized the following four conditions with regards to its activities:
 
@@ -79,7 +79,7 @@ As a general guideline, *policies are only to be broken in order to ensure the f
 #### Procedure
 
 - When calling basecamp from a cell or pay phone, the very first words spoken should be either "red light", "yellow light", or "green light", depending on the severity of the situation.
-- The PLB is your last resort, for use when all other means of self-rescue have been exhausted, and only when the situation is grave and imminent. Use in loss of life or limb situations. Use your judgment. Use the PLB only if BOTH of these two conditions are met: 
+- The PLB is your last resort, for use when all other means of self-rescue have been exhausted, and only when the situation is grave and imminent. Use in loss of life or limb situations. Use your judgment. **See the flow chart in the Emergency Procedures section to guide PLB use.** In summary, use the PLB only if BOTH of these two conditions are met: 
     - It is a "red light" situation AND
     - you are unable to speak verbally with the director by cell phone. Use if the follow-up call after texting does not go through. 
 - Neither the cell phone nor the PLB should impede the completion of necessary tasks in an emergency.
@@ -237,7 +237,7 @@ tool if deemed necessary.
 - Do not linger by roads. Several accidents that have occurred on outdoor trips have resulted from cars. Cross quickly and don't linger.
 - Scout out the best place to cross; you should have at least 200 feet of visibility in either direction. If you cannot see that far, post a leader as a spotter to let the group know if it is safe to cross. This procedure is particularly important if the road is curved.
 - Line up along the side of the road and cross quickly as a group, all at once, with a leader on each end.
--If you must walk along a road, walk single file on the side that faces the traffic. 
+- If you must walk along a road, walk single file on the side that faces the traffic. 
 
 ### Sexual Activity, Sexual Harassment, and Sexual Assault
 
@@ -247,6 +247,10 @@ tool if deemed necessary.
 - Sexual/romantic relationships between leaders/staff and participants are forbidden. This extends after the conclusion of a FOP trip.
 - All participants, leaders, and staff are expected to follow the standards of conduct outlined in the Harvard College [Handbook for Students](http://handbook.fas.harvard.edu). 
 - No group nudity, including partial nudity, is allowed on FOP. 
+
+#### Procedure
+
+- It is important to note that FOP leadership occurs directly on the week-long trip, but your responsibility to your FOPpers continues for the rest of their first year at Harvard. The impact you have on your FOPpers is much greater than most leaders ever realize, and because of this, it is important to think seriously about how you conduct yourself with and around your FOPpers during their first year. FOP leaders are expected to be role models and to act responsibly in the presence of their FOPpers throughout the year.
 
 ### Shelters/Huts
 
@@ -284,18 +288,18 @@ tool if deemed necessary.
 #### Policy
 
 - Solo hikes can only be carried out in the following conditions. If any of these conditions are not met, the FOP trip cannot perform a solo hike:
-   - No group member has a medical condition that could result in a change from that person's normal state.
-   - Nobody in the group has an allergy or medical condition that would put that person in danger if alone.
-   - The weather poses minimal risk to group safety or morale.
-   - Participants have previously experienced similar terrain and leaders have assessed all participants as being capable of comfortable independent movement along the proposed route.
-   - The trail is clearly marked.
-   - Nobody in the group is overly tired, feeling emotionally detached or dis-heartened, or having difficulty hiking.
+  - No group member has a medical condition that could result in a change from that person's normal state.
+  - Nobody in the group has an allergy or medical condition that would put that person in danger if alone.
+  - The weather poses minimal risk to group safety or morale.
+  - Participants have previously experienced similar terrain and leaders have assessed all participants as being capable of comfortable independent movement along the proposed route.
+  - The trail is clearly marked.
+  - Nobody in the group is overly tired, feeling emotionally detached or disheartened, or having difficulty hiking.
 - The solo hike must be carried out in a specific manner to minimize the risk of people becoming lost or injured. FOP trip participants are never allowed to simply hike alone in an unstructured manner:
-   - One leader is in the sweep and one in the lead position so that participants are sandwiched between leaders.
-   - Participants are separated by short, regular intervals so that they are able to communicate verbally with the person immediately in front and behind them.
-   - The solo hike only runs for a specified amount of time or distance so that the leader in front knows when to stop and regroup.
-   - At any junction or detour the leader must stop and wait to regroup.
-   - Participants must not deviate from the established trail.
+  - One leader is in the sweep and one in the lead position so that participants are sandwiched between leaders.
+  - Participants are separated by short, regular intervals so that they are able to communicate verbally with the person immediately in front and behind them.
+  - The solo hike only runs for a specified amount of time or distance so that the leader in front knows when to stop and regroup.
+  - At any junction or detour the leader must stop and wait to regroup.
+  - Participants must not deviate from the established trail.
 
 ### Stoves/Fuel 
 
