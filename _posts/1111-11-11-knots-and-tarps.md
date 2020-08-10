@@ -14,7 +14,7 @@ This section will help you deal with all of the situations in which you have to 
 When choosing which knot is appropriate for a given situation, you consider two factors: 
 - the strength of the knot
 - the ease of untying
-It's important to remember this second factor, because you want to be able to re-use your ropes the next day! Most of the knots described here are especially easy to untie because they have a built-in method for doing so. For the bowline and butterfly knot, this is called "breaking the back." 
+It's important to remember this second factor, because you want to be able to re-use your ropes the next day! Most of the knots described here are especially easy to untie because they have a built-in method for doing so.
 
 A few other simple concepts can be useful when thinking about knots:
 - The end of the rope in which you are tying the knot is called the "running end," and the other end is the "standing end."
@@ -130,7 +130,7 @@ The most important tarp factor is location. A few extra minutes of searching for
 - How will things on the ground approach your tarp? - How will water flow around the tarp?
 - How will people maneuver in/out/around the tarp? - How will things from above approach your tarp?
 - How will rain and wind flow off the tarp?
-- Are there any dangerous-looking branches/pine cones/trees that might fall onto the tarp when the windy rain comes? (in particular, look for widow-makers - dead trees or branches near or above the area that may fall on sleeping FOPpers in high wind or rain)
+- Are there any dangerous-looking branches/pine cones/trees that might fall onto the tarp when the windy rain comes? (in particular, look for dead trees or branches near or above the area that may fall on sleeping FOPpers in high wind or rain)
 
 A few general answers: good sites usually have a clear, flat (level and not bumpy) area surrounded by plenty of trees, with at least two sturdy trees approximately opposite each other. (If you have to move any logs or rocks to create a flat area, make sure to put them back in the morning, in accordance with FOP's minimum impact policy.) The site should not be in any kind of gully, basin, or depression where water will collect.
 
@@ -172,7 +172,7 @@ Now you can put the easy finishing touches on the tarp:
 
 You can make castles out of mere plastic sheets. Following is a brief collection of possibly useful tips for difficult tarp situations.
 
-- In order to achieve greater tension and tautness in the ridgeline, and thereby reduce sagging, set up a pulley system using not ONE, but TWO or MORE (!) trucker's hitches! Rather than simply passing the running end through the original trucker's hitch (#1), add a second hitch (#2) on the same line, and loop the running end through both  hitches before applying tension. 
+- In order to achieve greater tension and tautness in the ridgeline, and thereby reduce sagging, set up a pulley system using not ONE, but TWO or MORE (!) trucker's hitches! Rather than simply passing the running end through the original trucker's hitch (#1), add a second hitch (#2) on the same line, and loop the running end through both  hitches before applying tension. Note that you rarely need this, only use if you have an extremely long ridgeline or need very high tension for some reason.
 ![pulley][pulley]
 - If you're finding yourself running out of ridgeline, try tying an extra p-cord around the tree as an anchor. That way, you don't need to use precious ridgeline to go all the way around! 
 ![anchor][anchor]
@@ -193,10 +193,11 @@ Overall, remember that even when the going gets rough, any action based on the "
 
 Along with taking pride in your tarps, you should take care of them. Both the nylon and plastic tarps are precious FOP items which must be respected. In general, keep in mind that FOP cannot buy new tarps every year. Every tear put in the tarps this year is another duct tape patch next year's groups will have to deal with, and tarps made entirely out of duct tape may be aesthetically pleasing, but they have little practical value. Here are some tips to help you care for the tarps:
 
-- Avoid using sharp stones or sticks in your clove hitches ("ghosties"). - Duct tape both sides of a rip or hole as soon as possible.
+- Avoid using sharp stones or sticks in your clove hitches ("ghosties"). 
+- Duct tape both sides of a rip or hole as soon as possible.
 - Only use a trucker's hitch on the ridgeline.
 - Remove all sticks and stones that may accumulate, and untie all knots in the tarp cord, before folding and rolling up the tarps each morning (a clean, dried tarp is also a lighter tarp to carry).
-- Make sure all of the p-cord is accounted for when you are taking down the tarps. Leave the cords on the Snazzy.
+- Make sure all of the p-cord is accounted for when you are taking down the tarps.
 
 [rope]: http://www.winstonhillsscoutgroup.com/Cubs/Gold/GOLD%20BOOMERANG%20TEST%203_files/Image7.gif
 [taught-line]: http://cdn.instructables.com/FE2/XCQX/FRD80IRK/FE2XCQXFRD80IRK.LARGE.gif
