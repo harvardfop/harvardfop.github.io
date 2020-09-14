@@ -108,6 +108,10 @@ Do remember that much more important than the question you pose to the group or 
 	- When was the first time you felt like an adult? 
 See the diversity section of the handbook for questions within this activity that are more geared toward conversations around diversity within personal experience! Also try "30 Questions to Fall in Love."
 
+- Hot Seat: The whole group sits in a circle, and each person takes a turn in the "Hot Seat." The group then asks that person a set number of questions. You might throw in similar questions to the ones for Skittles questions, but its up to the group what they want to ask.
+
+- Active listening: Pair people up. One of the pair members will start as the speaker and the other will be the listener. The speaker closes their eyes and talks about whatever crosses their mind for 5 minutes. The listener remains silent and keeps track of the time. Switch roles after 5 minutes.
+
 - Kick-Ass/Ass-kicked: Participants tell a time when they got their ass-kicked (were disappointed in themselves, etc.) and when they kicked-ass (felt proud of themselves).
 Hot Seat: One participant is in the center of the group and others may ask them whatever questions they want. They are not required to answer.
 
