@@ -195,7 +195,7 @@ Some difficulties on FOP trips can arise because leaders have different personal
 
 #### Recognizing Differences in Leadership Style
 
-Some leaders prefer to be more aggressive, or directive, in their approach, while others are fairly passive, or non-directive. At certain times and in certain situations, each technique has its merits. Before you go on the trip, get a good idea of both your own and your co-leader's style. Anticipate situations where you might have to modify your own leadership style for the benefit of the group. It is also important to avoid dichotomous roles. There should never be a situation where one leader is the disciplinarian and the other is the fun leader (the "good cop/bad cop" scenario).
+Some leaders prefer to be more aggressive, or directive, in their approach, while others are fairly passive, or non-directive. At certain times and in certain situations, each technique has its merits. Before you go on the trip, get a good idea of both your own and your co-leader's style. Anticipate situations where you might have to modify your own leadership style for the benefit of the group. It is also important to avoid dichotomous roles. There should never be a situation where one leader is the disciplinarian and the other is the fun leader.
 
 #### Communicating as Often as Possible
 
@@ -204,6 +204,15 @@ This may sound obvious, but few of us do it as well as we may think. Talk as muc
 You must always let your co know where you are and what you are doing. This is imperative for obvious safety reasons. It is also crucial for creating an atmosphere of trust and mutual respect.
 
 Communication is also essential for maximizing your collective skill. Use one an- other's strengths and expertise to the fullest!
+
+#### Checking In
+
+One of the most important aspects of co-leader communication is the check-in. All co-leading pairs have different styles, with some checking in at every juncture while others will check in at each break. What’s constant is that checking in happens. Some reasons it is important to normalize checking in often, regardless of absolute necessity, include: your FOPpers won’t realize it if you are lost, you can take care of yourself and your co in private, you can bond with your co away from the FOPpers (think: eating co snacks), you can plan for the next part of the day, and many more. Check-ins go a long way toward establishing a strong co-leader relationship and should be utilized often.
+
+A basic check-in usually includes some or all of the following questions:
+- [Lead Self and Co] How are you feeling physically? Emotionally? Each co checks in with themselves.
+- [Lead Group] How do you feel like the group is doing physically? Emotionally? Socially? Maybe just quickly name each member and say if there's anything up.
+- [Looking Forward] Any pressing concerns? What are our plans for the next few hours? How do we do this successfully? What's our first step after we finish checking in? How are you feeling now?
 
 #### Respect Each Other and Each Other's Opinions
 
