@@ -17,6 +17,8 @@ The framework includes checking for scene safety, the primary and secondary surv
     3. Your patient? This is where you and your co split up the group and medical responsibilities.
 2. ***STOP***...think...What was the MOI? Do you need to stabilize the patient's head? Communicate with the injured person and tell them to lie still; keep talking to reassure them. Approach carefully.
 
+![WFA Diagram](../assets/pas.jpg)
+
 ### Primary Survey
 
 The purpose is to get a primary history (what happened?), find any life-threatening injuries and treat them, and prevent further life-threatening injuries.
@@ -29,7 +31,7 @@ Look, listen, and feel for ABCs - the brain can only survive for six minutes wit
 
 Next:
 
-- **D**isability: Protect the head and back and check sensation in extremities for a spinal MOI. Do a chunk check to find obvious deformities or injuries.
+- **D**isability/Deformity: Protect the head and back and check sensation in extremities for a spinal MOI. Do a chunk check to find obvious deformities or injuries.
 - **E**nvironment: Is it warm, cold, wet, dry? If so, fix it!
 
 ***STOP***...think...RELAX. If you have completed the primary survey, your patient is just fine at the moment. It is more important to calmly gather information and to begin preparing a comprehensive SOAP note and possible evacuation plan (if necessary) than to rush through the survey and stress yourself, your co, and your FOPpers out while missing bits of information.
@@ -180,7 +182,10 @@ Musculoskeletal injuries are injuries to bones and joints.
 
 - Pulling apart of a joint; may injure muscles, tendons, ligaments, and cartilage. May be associated with a fracture. Sometimes a dislocation will go back in immediately, but if they stay dislocated, it's extremely painful and the reduced circulation can put future function of the limb at risk.
 - Symptoms: Diffuse pain, reduced range of movement, reduced CSMs, deformity.
-- Care: Pull traction in-line to reduce the dislocation, then immobilize the area by splinting. (RICE as appropriate.) Use a steady, firm pull and have someone provide counter-traction; use slow, gentle movements to gradually realign the joint.
+- Care:
+    - Shoulder Dislocation: position patient face down on sturdy surface high enough for injured arm to hang down and attach a 5- to 10-pound weight (water bottle works well) to wrist. The goal is to exhaust the muscles, so the shoulder will reduce, but this might take hours.
+    - Evacuate for all dislocations (there isn’t much you can do with WFA certification for dislocations)
+    - [WFR topic: Pull traction in-line to reduce the dislocation, then immobilize the area by splinting. (RICE as appropriate.) Use a steady, firm pull and have someone provide counter-traction; use slow, gentle movements to gradually realign the joint.]
 
 #### Sprains and Strains
 
@@ -262,7 +267,7 @@ Side effects are rare if used properly. Abdominal or stomach cramps, pain, or di
 #### Acetaminophen
 
 - Common brand name: Tylenol
-- Appearance: individually wrapped caplets)
+- Appearance: individually wrapped caplets
 
 Acetaminophen can be used to relieve minor aches, pains, headaches, and fever, but is not as effective as an anti-inflammatory. Each pill is 325 mg; standard dose for an adult is one pill every 4-6 hours. A second pill may be given if necessary, not to exceed 12 pills in a 24-hour period.
 

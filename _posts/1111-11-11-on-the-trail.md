@@ -117,7 +117,7 @@ These factors should all be used to determine a rating for a river. Jed Williams
 - Very Difficult: Water depth is above knees with big boulders and rocks on the bottom. Water could be opaque and velocity is forceful at 5-7 knots. Maximum snow melt and very heavy rain produce these conditions.
 - Extremely Difficult: Water depth above knees, boulders and rocks where one's foot could get wedged underneath. Generally opaque, brown and muddy. Velocity is very forceful, difficulty standing at over 7 knots.
 
-These ratings are very general. Ratings from Very Difficult to Extremely Difficult denote rivers where crossings should not be attempted. Rating from Moderate to Difficult can be attempted if the leaders deem it fair, but forms of support should be considered such as the tripod crossing (see above) or using long poles or sticks, and people not crossing should stand down river as 'spotters' (people who can assist should someone get swept off his or her feet).
+These ratings are very general. Ratings from Very Difficult to Extremely Difficult denote rivers where crossings should not be attempted. Rating from Moderate to Difficult can be attempted if the leaders deem it fair, but forms of support should be considered such as the tripod crossing (see above) or using long poles or sticks, and people not crossing should stand down river as 'spotters' (people who can assist should someone get swept off their feet).
 
 #### Making the Crossing
 

@@ -9,16 +9,13 @@ comments: true
 
 Refer to the Emergency Call Guide in your leader packet for up-to-date emergency contact information and protocols. Below are some phone numbers in case you do not have access to that sheet.
 
+- 911
 - FOP Emergency Line: (617) 299-1338
 - NH Basecamp landline (Lincoln, NH): (603) 745-9876
-- Coz's personal cell phone: (978) 590-8851
-- FDO Numbers
-	- Main Office: (617) 495-1574 (Ask for Katie Steele or Dean Dingman)
-	- Katie Steele Emergency Cell: (617) 599-4377
-	- Dean Dingman Emergency Cell: (617) 512-6931
-	- Dean Dingman Home: (617) 876-1472
+- Quigs's personal cell phone: (856) 285-4777
+- DSO Student Engagement Office 617-495-1558 (Ask for Dean Alex Miller or Lily Castro)
 - Harvard University Police: (617) 495-1212
-	- Ask for watch officer to report an emergency if basecamp, Katie Steele, or Dean Dingman cannot be reached.
+	- Ask for watch officer to report an emergency if Base Camp or the DSO staff cannot be reached.
 - Office of Sexual Assault Prevention and Response (OSAPR) 24-hour hotline: 617-495-9100
 
 ### Secondary Emergency Numbers

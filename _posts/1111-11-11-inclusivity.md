@@ -7,38 +7,33 @@ category: interpersonal-skills
 comments: true
 ---
 
-We know that we don’t have to justify why inclusivity is important to FOP leaders, but here’s one way you can frame its relevance to FOP’s role as a pre-orientation program. First, if one of our goals is for FOPpers to get to know each other as individuals, we should be making it equally possible for every member to be known. Some people hold identities that are more vulnerable and more difficult to fully express because of how they have been marginalized or ignored in society. Conversations about diversity can provide the framework to allow those students to be known in those aspects that set them apart, instead of limiting them to more trite expressions of their experiences. Even with a group that seems homogeneous, these conversations can help them think through their own journeys in the world in ways that they might not always get the chance to explore in depth. It’s one way that they can deepen their knowledge of themselves, too. 
+It’s a requirement that all FOP trips have at least one conversation focused on issues surrounding diversity, inclusion, and allyship. Hopefully, you will find ways to incorporate elements of this larger discussion into smaller moments on the trail and during other activities.
 
-Also, taking a step back, FOP is an organization that has the ability to deeply affect many first-years before they even begin classes. We have the power to create the campus culture that we want to be part of.  With great power…
+If one of our program’s goals is for FOPpers to get to know each other as individuals, we should be making it equally possible for every member to be known. Some people hold identities that are more vulnerable and more difficult to fully express because of how their identities have been historically marginalized in society. Conversations about diversity can provide the framework to allow those students to be known in those aspects that set them apart. Even with a group that seems homogeneous, these conversations can help them think through their own journeys in the world in ways that they might not always get the chance to explore in depth. It’s one way that they can deepen their knowledge of themselves, too.
 
-As facilitator, try not to allow your conversation to be derailed into one about how “we all come from different places but we’re all equally valid.” Don’t let it be dominated by the kid with trite mottos about how “everyone’s diverse in their own way.” Lean into the conversation about the inequalities, the harder stuff, the way systems of oppression make some of us feel like we should be enemies. 
+Also, taking a step back, FOP is an organization that has the ability to deeply affect many first-years before they even begin classes. We have the power to create the campus culture that we want to be part of.
 
-Knowing that these kinds of conversations can be particularly difficult, we have included here some tips and thoughts about how you might frame them. 
+As facilitator, try not to allow your conversation to be derailed into one about how “we all come from different places but we’re all equally valid.” Don’t let it be dominated by trite mottos about how “everyone’s diverse in their own way.” Lean into the conversation about the inequalities, the harder stuff.
 
-Finally, we know it could be daunting to read this. It was daunting to write, too. We knew there was no hope of being comprehensive, and we were painfully aware that the more we write, the more we are guaranteed to have written something that misses the point, or deserves revision, or is outright wrong. That hesitation is probably familiar to some of you, too. It feels easier sometimes not to say something than to risk being called out. But we hope that you will seek to lean in to that discomfort, as we have tried to. Call us out and keep the conversation going. 
+Knowing that these kinds of conversations can be particularly difficult, we have included here some tips and thoughts about how you might frame them. We hope that you will seek to lean in to the discomfort that comes from having difficult conversations around equity, diversity, and inclusion, as leaders have previous generations have tried to.
 
 #### Conversation Norms
-This isn’t a comprehensive list, but here are a few norms to think about setting for your FOPpers:
 
-  - Recognize that these issues are bigger than ourselves, and that we are limited as facilitators
-  - Assume best intentions, but recognize that good or benign intentions are not enough
-  - Apologize fully when you are called out (more on that below)
-  - Validate emotions, esp. if you don’t fully understand them
-  - Validate personal anecdotes
-  - Promote self-care, esp. for those who are sharing a lot of themselves
+Just like how FOP leaders set expectations at the beginning of the trip with activities like the Full Value Contract, it is important for leaders to set norms for conversations. Here are a few norms to think about setting for your FOPpers during processing, especially related to diversity and inclusion:
 
-#### Anger (& other emotions)
-These kinds of discussions can elicit a wide range of emotions and responses from people, and that can be difficult to deal with as facilitator and participant. It can be easier if we:
-
-  - Recognize that these issues are bigger than ourselves, and that: 
-      - Your comment could be just the tip of the iceberg, or a trigger for some other incident or issue.
-      - You could be inadvertently playing into a harmful stereotype or a binary that makes certain identities invisible. Feeling like your identity is invisible can be painful, even if (or maybe especially because) it wasn't done on purpose.  
-      - When someone is hurt by an offhand comment you might have made, their hurt could go beyond you and your intentions. 
-      - When someone feels like their voice is silenced, it may not be about you as an individual silencing them, but the systematic silencing that they have faced at the hands of the group of privileged individuals that you may belong to.
-  - Reverse the narrative:
-      - Often, we end up putting pressure on those who feel deeply and personally affected by these issues to express their frustations "productively," or to realize that their anger might be misdirected, or extreme. But that can just add another layer of feeling like you're not truly being heard. Instead, as facilitators of discussion spaces, we can try to maintain norms that put responsibility on every member of the group - to listen more carefully and hear everything that's being expressed, both explicitly and implicitly. We can teach people to handle receiving these emotions productively and empathetically. We can make the 'safety' of spaces dependent on the willingness of every member to step into someone else's shoes, rather than on the willingness of those who are victims and survivors to bite their tongues.
+- Take space, make space
+  - Be mindful of the identity you may hold and help to create an environment for everyone to contribute. Speak up when you have something to share, but also create an environment for others to share. This can mean letting others speak even if you don’t get to share your view and being aware of the impact you are having on others’ ability to contribute.
+- Assume best intentions, but acknowledge impact
+  - If someone says or does something that is hurtful or inappropriate, tell them in a respectful way trusting that they did not mean harm
+- Be fully present, practice active listening
+  - Validate emotions and personal anecdotes, especially if you don’t fully understand them. Leave pauses after other people speak so they know what they heard.
+- Confidentiality
+  - If someone shares an experience that gives you perspective, take it with you. Be sure to respect the privacy and feelings of the person who shared. (This extends to many conversations on FOP where participants bring up personal experiences.)
+- Speak from the “I” perspective
+- Promote self-care, especially for those who are sharing a lot of themselves
 
 #### Calling Out
+
 As the likely facilitator of many of these discussions, it may sometimes fall upon you to call someone out for a comment, question, attitude, or action that you notice. Awesome! Calling out is a good thing - besides being necessary on individual levels, it also pushes the group’s conversations to go deeper and gives people a chance to revisit and revise some of their harmful assumptions. Hopefully, you’ll be able to norm it in your group, and not have it seem like something unusual or confrontational, definitely not something that would end up requiring VOMPing. Here are some ways to help:
 
   - Have you and your co-leader(s) casually call each other out and handle it gracefully during one of the first days. (It doesn’t have to be convincingly realistic to do its job!) That exchange could go something like:
@@ -110,85 +105,11 @@ There are times when it may feel impossible to bring up these discussions organi
   - Use the important words listed in a section below (or use your own that you come up with) and do an activity where you write down each of the words on a piece of paper and have everyone take a few moments to silently walk around and write down their reactions to, thoughts about, or possible definitions of each of the words. Then allow time to discuss different perspectives on these ideas, and (perhaps also provide time for solo reflection afterwards). 
 
 #### Decentering
-Most spaces in our culture are clearly centered around the experiences of a few privileged identities.
-For example, here are just a few ways that white, straight, or cis experiences are centered every day:
+Most spaces in our culture are clearly centered around the experiences of a few privileged identities. It is important to think about decentering those people. 
 
-  - European tragedies are more publicized
-  - Minorities are marked as ‘other’ in college admissions processes
-  - Books studied in schools are overwhelmingly written by white people about white people, and so are TV shows, magazine articles, and so on...
-  - Language used by white people is seen as ‘proper’ while the language of other demographics is not
-  - You have to 'come out' as anything other than straight - otherwise, you're assumed to be straight. But if you don't want to 'come out,' you're seen as 'in the closet'
-  - It's much harder to find gender-neutral bathrooms, housing options, and other public facilities
-
-In light of that, how can we reverse the narrative so that we allow those who are normally labeled as ‘other’ to be at the center?
-Two ways:
-
-  - Equal sharing of vulnerability
-      - The responsibility is usually on those who would be ‘othered’ because of their identities to share their stories and be vulnerable. The burden is also on them to defend why conversations about diversity are important at all. Instead, those who find themselves with some privileged identities should also step forward and be vulnerable - about the ways that they are starting to see their own privilege, or mistakes that they might have made. They should also speak to why diversity is important, while acknowledging any limitations of their perspective. Studies have shown that it is white students who gain the most from being taught to consider the experiences of people who are different to them. Students of color gain little because they already do it, every day, from speaking in the language of the white majority or writing English and History essays about white boys/men at school. A safe space can only be constructed with everyone’s active effort. 
-  - Stepping back as the expert
-      - Relinquish the idea that everyone’s opinion on issues of marginalization is equally valid. Those who have faced it less, or in different areas, may never be able to truly feel the weight of the marginalization. They can only listen to and learn from those who have direct knowledge. 
-      - This is where intersectionality is key - an individual who lives at the intersection of several different marginalized identities has experiences fundamentally different from individuals who inhabit only some of those identities. No one has authority to speak for others’ lives.
-      - Those who are normally at the center of most conversations might find it disturbing to no longer be able to contribute as much as they are accustomed to. That’s okay. Teaching your more privileged FOPpers to step back from the center is valuable for them and for the other FOPpers. 
-
-#### Important Words to Think About
-  - allyship
-  - intersectionality
-  - coded language
-  - cultural appropriation
-  - colonialism
-  - racism
-  - sexuality
-  - oppression
-  - code-switching
+- Relinquish the idea that everyone’s opinion on issues of marginalization is equally valid. Those who have faced it less, or in different areas, may never be able to truly feel the weight of the marginalization. They can only listen to and learn from those who have direct knowledge. 
+- Intersectionality is key - an individual who lives at the intersection of several different marginalized identities has experiences fundamentally different from individuals who inhabit only some of those identities. No one has authority to speak for others’ lives.
+- Those who are normally at the center of most conversations might find it disturbing to no longer be able to contribute as much as they are accustomed to. That’s okay. Teaching your more privileged FOPpers to step back from the center is valuable for them and for the other FOPpers. 
 
 #### Some Online Resources
-Since we don't feel like we have the breadth of knowledge to offer really good, broad definitions for the terms above and many others that we have left out, we've tried to include some resources here to help you develop your understanding of these concepts and ideas on your own. However, this is definitely not comprehensive, and we don't necessarily endorse any of the particular sources here, and they don't necessarily agree with each other - just trying to provide a jumping off point to observe and enter the dialogue!
-
-  - [Everyday Feminism][everydayfeminism.com]
-  - [Black Girl Dangerous][blackgirldangerous.org] - "Amplifying the Voices of Queer and Trans People of Color"
-  - [Women Under Siege][womenundersiegeproject.org] - Investigates and analyzes sexualized violence in high-conflict areas of the world
-  - [Jezebel][jezebel.com]
-  - [Racialicious][racialicious.com] - "Race, Culture, and Identity in a Colorstruck World"
-  - [No, Seriously, What About Teh Menz?][http://goodmenproject.com/category/noseriouslywhatabouttehmenz/]
-  - [The Society Pages][thesocietypages.org/socimages/] - "Sociological Images encourages all kinds of people to exercise and develop their sociological imagination by presenting brief discussions of compelling and timely imagery that span the breadth of sociological inquiry."
-  - [Bitch Magazine][bitchmedia.org]
-  - [The Hairpin][thehairpin.com]
-  - [The Urban Scientist][http://blogs.scientificamerican.com/urban-scientist/] - "A hip hop maven blogs on urban ecology, evolutionary biology & diversity in the sciences"
-
-#### Your Space
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[everydayfeminism.com]: everydayfeminism.com
-[blackgirldangerous.org]: blackgirldangerous.org
-[womenundersiegeproject.org]: womenundersiegeproject.org
-[jezebel.com]: jezebel.com
-[racialicious.com]: racialicious.com
-[http://goodmenproject.com/category/noseriouslywhatabouttehmenz/]: http://goodmenproject.com/category/noseriouslywhatabouttehmenz/
-[thesocietypages.org/socimages/]: thesocietypages.org/socimages/
-[bitchmedia.org]: bitchmedia.org
-[thehairpin.com]: thehairpin.com
-[http://blogs.scientificamerican.com/urban-scientist/]: http://blogs.scientificamerican.com/urban-scientist/
+Please see [this google doc](https://docs.google.com/document/d/10xdpAuvcz6rOQ7krY2l6v05fNO1JxpvnoorVOp_m34Q/edit) for a living resource bank of EDI resources, outdoor-specific and otherwise. Note that it is focused on race, but touches on other identities.

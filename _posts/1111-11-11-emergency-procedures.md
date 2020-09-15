@@ -83,9 +83,9 @@ All members should always maintain visual contact with the rest of the group. Do
 *__Example:__ “Our first concern is that you feel safe.  How are you feeling about being in the woods right now? Would you prefer to go back to the frontcountry? Or are there certain parts of the trip that are making you uncomfortable that we could address?  For example, do you feel comfortable sleeping under the tarp with everyone?”*
 4. Talk to your co-leader. ***This information should not be shared with anyone that is not the FOP Director, your co-leader, and/or OSAPR (if you choose to contact them).*** 
 5. If you and your co-leader would like additional support, or would like to talk through a plan for how to support the individual, call OSAPR’s 24-hour hotline.  Option 3 will put you directly in touch with a confidential OSAPR staff member. Number: **(617) 495-9100**.
-6. Consider whether you think FOP as a program should know about the incident.  For example, did the incident occur on the trip itself, or during Aloha Day?  (Please note that some incidents of sexual assault or sexual harassment could require a mandatory evacuation. Please see the list of mandatory notifications and evacs below).   
+6. Consider whether you think FOP as a program should know about the incident.  For example, did the incident occur on the trip itself, or during Blast Off Day?  (Please note that some incidents of sexual assault or sexual harassment could require a mandatory evacuation. Please see the list of mandatory notifications and evacs below).   
 
-If you do think the program should be informed about the incident, contact Basecamp via normal notification procedures.    Please consider that all Basecamp members are not confidential resources.  That means they must disclose any information of which they are aware.  Feel free to describe the incident in general terms; only use names if the individual has confirmed they are OK with you doing so.
+If you do think the program should be informed about the incident, contact Basecamp via normal notification procedures. Please consider that all Basecamp members are not confidential resources. That means they must disclose any information of which they are aware.  Feel free to describe the incident in general terms; only use names if the individual has confirmed they are OK with you doing so.
 
 ##### Best Practices
 - First and foremost, remember that you are NOT A PSYCHIATRIST and therefore are not expected (and should not feel like you have to) “solve” or “respond perfectly” to a disclosure. These are best practices. Remember that offering an ear to listen/a shoulder to cry on is incredibly helpful in and of itself. 
@@ -96,8 +96,8 @@ If you do think the program should be informed about the incident, contact Basec
 - Provide but don’t force resources - it is a survivor’s decision to seek help if, how, and when they choose to.
 - Do not respond by saying anything violent. It’s common for people to say things like “Oh, I want to hurt/beat up that person for doing that to you because I’m so angry,” etc. However, for someone who has recently undergone a traumatic/violent event, this can be frightening/damaging language. 
 - **When you’re in the field:** 
-  - Make sure you ask the person disclosing to you whether or not they are comfortable with you sharing the information with your co-leader. Where appropriate, let the person disclosing to you know that you will have to share some information with your co-leader, even if it’s not the “full disclosure” that they shared with you. 
-  - If you have cell service, you can call OSAPR directly (617-495-9100) or sit with the person of concern as they speak with OSAPR.  
+	- Make sure you ask the person disclosing to you whether or not they are comfortable with you sharing the information with your co-leader. Where appropriate, let the person disclosing to you know that you will have to share some information with your co-leader, even if it’s not the “full disclosure” that they shared with you. 
+	- If you have cell service, you can call OSAPR directly (617-495-9100) or sit with the person of concern as they speak with OSAPR.  
 
 ### Media Procedures
 
@@ -129,9 +129,9 @@ When you are ready to initiate contact, follow these steps:
 
 Using the numbers in the Emergency Call Guide in your leader packet, start by sending a text. (Texting will often work even when there is insufficient cellular coverage for a voice call.) Use the following structure:
 
-***Light. Name. Trip #. Location. Situation. Time until you will call.***
+***Light. Name. Trip #. Location. Situation. Time until you will call. Time that you sent this message.***
 
-For example: Green light. Ammar and Grace. Trip 84. On Tchou Tr on Mt Morange, 1 mi from Murray Tr jxn. Need to reroute - uncrossable stream. Will call in 15 min.
+For example: Green light. Ammar and Grace. Trip 84. On Tchou Tr on Mt Morange, 1 mi from Murray Tr jxn. Need to reroute - uncrossable stream. Will call in 15 min. Sent at 11:55 AM 8/23/2019.
 
 #### 2. Place a call
 
@@ -139,7 +139,9 @@ Again using the numbers in the Emergency Call Guide, call basecamp at the time y
 
 #### 3. If it is a red light situation and you cannot call basecamp, activate the PLB
 
-Look on the Emergency Call Guide and in the policies and procedures section for more information. This is a last-resort device, for use only in life or limb situations.
+Use this flow chart to determine whether to use the PLB in a red light situation:
+
+![flow chart](../assets/plb_flow_chart.png)
 
 ### Mandatory Notifications
 
