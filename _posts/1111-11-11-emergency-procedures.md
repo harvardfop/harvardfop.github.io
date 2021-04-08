@@ -116,7 +116,7 @@ Remember: In the event of an emergency, Harvard's resources will be called upon 
 
 In order to facilitate communication, FOP uses a "stoplight" system to convey the urgency of phone calls. The words "green light", "yellow light", or "red light" should be the first things you say when contacting basecamp. Use the following chart to help you decide which light is appropriate, but don't dwell over gray areas - this is, after all, just a communication tool.
 
-|        		|   Situation Stable? 	| Held Needed in < 24 Hours? 	|
+|        		|   Situation Stable? 	| Help Needed in < 24 Hours? 	|
 |   ----------------	|  -------------------	|----------------------------	|
 |	Green 	 	|       Yes            	| 	No                     	|
 | 	Yellow         	| 	Yes            	| 	Yes                    	|
